@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/porro-incidunt-labore-modi",
-  "version": "2.7.44",
+  "version": "2.7.45",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -71,5 +71,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/porro-incidunt-labore-modi/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
